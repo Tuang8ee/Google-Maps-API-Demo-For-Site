@@ -7,7 +7,7 @@
 
 With this project my main target: 
   - Using library google maps api demo 
-  - Create API key on [Google CLoud Platform](https://console.developers.google.com)
+  - Create API key on [Google Cloud Platform](https://console.developers.google.com)
   - Request & Respone
 
 
