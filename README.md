@@ -28,7 +28,7 @@ My project uses a number of open source projects to work properly:
  - Write MORE Tests
  - Add Night Mode
  - Google Cloud Platform
- - Google Map API
+ - Google Maps API
 
 License
 ----
